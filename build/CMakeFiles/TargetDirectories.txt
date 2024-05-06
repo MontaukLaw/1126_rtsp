@@ -1,0 +1,3 @@
+/home/marc/my_project/1126_rtsp/build/CMakeFiles/rtsp_demo.dir
+/home/marc/my_project/1126_rtsp/build/CMakeFiles/edit_cache.dir
+/home/marc/my_project/1126_rtsp/build/CMakeFiles/rebuild_cache.dir
